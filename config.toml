@@ -1,0 +1,4 @@
+baseURL = "https://tech.sars.tw/"
+languageCode = "zh-tw"
+title = "Tech @ Sars.TW"
+theme = "robust"
