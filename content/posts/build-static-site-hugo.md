@@ -1,8 +1,7 @@
 ---
 title: "使用 Hugo 快速建立靜態網站"
-date: 2017-12-21T17:15:08+08:00
+date: 2017-12-22T18:45:16+08:00
 thumbnail: "images/build-static-site-hugo.png"
-draft: true
 ---
 
 # 安裝 Hugo
@@ -37,6 +36,12 @@ Hugo 提供許多佈景主題，可以在 [Hugo Themes](https://themes.gohugo.io
 
 然後用文字編輯器，或任何支援 Markdown 語法的編輯器，直接撰寫文章即可。
 
+每篇文章剛建立時，預設會是草稿（draft）狀態，當文章撰寫完成後，可以透過指令
+
+	hugo undraft posts/my-first-post.md
+
+讓文章變成正式發佈的狀態，這樣之後才會出現在網站中。
+
 # 本機查看網站
 
 Hugo 專案建立的靜態網站不需要先發佈到網路上才能瀏覽，可以先在本機查看成果：
@@ -45,7 +50,22 @@ Hugo 專案建立的靜態網站不需要先發佈到網路上才能瀏覽，可
 
 在修改網站設定後，可以先透過這個方式快速預覽結果，等修改完成後再一次佈署到網路空間上。
 
+# 佈署到 Netlify 上
+
+網站改好後，就可以放到網路上正式公開，可以自己架設伺服器來放，也可以選擇第三方服務來幫忙，Hugo 官方文件提供了 Netlify、Google Firebase、GitHub、GitLab、Bitbucket 等，這邊選擇了 Netlify，主要的考量點有幾項：
+1. 免費靜態網頁空間
+2. 免費自訂網域名稱（Custom Domain Name）
+3. 免費 HTTPS 憑證（透過 Let's Encrypt）
+4. 支援 CI/CD
+
+在 Netlify 開一個專案並指定好 Source Code 存放的地點，並設定
+
+	Build command: hugo
+	Publish directory: public
+
+並在 Build environment variables 區塊中設定 `HUGO_VERSION` 為 `0.26`，完成後 Netlify 就會自動從 GitHub 把檔案拉下來，用 Hugo 編譯好成品後，再佈署到伺服器上，整個過程會全自動完成，不需要再手動更新網站，最後用 Netlify 提供的網址，就可以看到網站成品了。
 
 # 參考
 
-[Hugo - Getting Started - Quick Start](https://gohugo.io/getting-started/quick-start/)
+* [Hugo - Getting Started - Quick Start](https://gohugo.io/getting-started/quick-start/)
+* [Hugo - Hosting and Deployment - Host on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
