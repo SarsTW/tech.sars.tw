@@ -1,6 +1,8 @@
 ---
 title: "[GCP] 將 VM 搬移至另一個 Zone"
 date: 2017-12-25T19:16:35+08:00
+thumbnail: "images/gcp-regions.png"
+tags: ["GCP", "GCE"]
 ---
 
 GCP 的 Compute Engine 在開虛擬機的時候，需要同時選擇虛擬機所在的機房（Region）及子區域（Zone），一般來說在虛擬機建立時，選好 Region 及 Zone 之後，就不能再更換或搬家，只能刪掉重建，不過 gcloud 指令提供了換 Zone 的功能，讓這件事情變得很簡單，只需要一行指令：
