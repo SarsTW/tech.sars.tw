@@ -2,18 +2,33 @@
 title: "使用 Hugo 快速建立靜態網站"
 date: 2017-12-22T18:45:16+08:00
 thumbnail: "images/build-static-site-hugo.png"
+tags: ["Hugo"]
+description: "簡單來說，這個網站是透過 Hugo 產生的，是個純靜態網站（沒有後端資料庫），Hugo 產生出來的網站可以直接上傳到 GitHub Pages、Netlify 或是 CDN 上，撰寫文章透過 Markdown 語法，方便做文章控管。"
 ---
 
+簡單來說，這個網站是透過 Hugo 產生的，是個純靜態網站（沒有後端資料庫），Hugo 產生出來的網站可以直接上傳到 GitHub Pages、Netlify 或是 CDN 上，撰寫文章透過 Markdown 語法，方便做文章控管。
+
 # 安裝 Hugo
+
 在已經安裝好 brew 環境的 macOS 上安裝 Hugo 非常容易，只需要一行指令即可完成。
 
 	brew install hugo
+
+其他平台上相對麻煩許多，這邊就先略過了...
 
 # 建立 Hugo 網站專案
 
 	hugo new site quickstart
 
 目錄底下會多出一個 quickstart 子目錄，即是一個新網站專案。
+
+每個 Hugo 的專案裡面都會有這些基本的目錄與檔案：
+
+1. archetypes：樣板檔案，使用 `hugo new` 指令時會從這邊複製過去，並代換變數
+2. content：放置文章
+3. static：放圖片、影片或其他靜態檔案
+4. themes：佈景主題檔案
+5. config.toml：專案設定檔，Hugo 靠這個檔案判斷及運作
 
 
 # 新增佈景主題
