@@ -1,10 +1,9 @@
 ---
 title: "[GoLang] 用 Mgo 遇到的問題與 Mgo 專案現況"
-date: 2017-12-25T17:41:36+08:00
+date: 2017-12-29T18:50:43+08:00
 thumbnail: ""
 tags: ["mgo", "golang", "mongodb"]
 description: ""
-draft: true
 ---
 
 ## Primary Failover Issue
