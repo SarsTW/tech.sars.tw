@@ -11,8 +11,6 @@ html {
 
 body {
   color: #333;
-  font-family: 'Roboto Slab','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro',メイリオ,Meiryo,sans-serif;
-  font-feature-settings : "palt";
   font-size: inherit;
   line-height: 1rem;
   margin: 0;
@@ -29,6 +27,7 @@ h1, h2, h3, h4, h5 ,h6 {
 h1 {
   font-size: 1.5rem;
   padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 hr {
@@ -314,17 +313,15 @@ article.sn > .article-body h3 {
 
 article.sn > .article-body ul,
 article.sn > .article-body ol {
-  margin: 1.5rem 0;
   padding-left: 1.5rem;
 }
 
 article.sn > .article-body li {
-  padding-bottom: .5rem;
   line-height: 1.5rem;
 }
 
 article.sn > .article-body li:last-child {
-  padding-bottom: 0;
+  padding-bottom: .5rem;
 }
 article.sn > .article-body p {
   margin: 1rem 0;

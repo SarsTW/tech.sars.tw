@@ -2,3 +2,11 @@ baseURL = "https://tech.sars.tw/"
 languageCode = "zh-tw"
 title = "Tech @ Sars.TW"
 theme = "robust"
+
+#googleAnalytics = "UA-XXXXXXXX-XX"
+disqusShortname = "tech-sars-tw"
+
+[params]
+  # Fonts settings.
+  googlefonts = "//fonts.googleapis.com/earlyaccess/notosanstc.css"
+  fontfamily = "'Noto Sans TC', sans-serif"
