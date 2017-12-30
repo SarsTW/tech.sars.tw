@@ -3,7 +3,7 @@ languageCode = "zh-tw"
 title = "Tech @ Sars.TW"
 theme = "robust"
 
-#googleAnalytics = "UA-XXXXXXXX-XX"
+googleAnalytics = "UA-757654-3"
 disqusShortname = "tech-sars-tw"
 
 [params]
