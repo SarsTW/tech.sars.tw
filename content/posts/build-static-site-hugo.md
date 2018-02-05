@@ -51,11 +51,7 @@ Hugo 提供許多佈景主題，可以在 [Hugo Themes](https://themes.gohugo.io
 
 然後用文字編輯器，或任何支援 Markdown 語法的編輯器，直接撰寫文章即可。
 
-每篇文章剛建立時，預設會是草稿（draft）狀態，當文章撰寫完成後，可以透過指令
-
-	hugo undraft posts/my-first-post.md
-
-讓文章變成正式發佈的狀態，這樣之後才會出現在網站中。
+每篇文章剛建立時，預設會是草稿（draft）狀態，當文章撰寫完成後，只要將檔案前幾行設定值的 `draft: true` 整行刪除，文章就會被視為正式發佈的狀態，這樣之後才會出現在網站中。（早期使用 undraft 指令已經[整個被拔除](https://github.com/gohugoio/hugo/commit/2fa70c9344b231c9d999bbafdfa4acbf27ed9f6e)了）
 
 # 本機查看網站
 
