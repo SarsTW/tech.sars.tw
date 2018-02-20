@@ -6,7 +6,9 @@ tags: ["Hugo"]
 description: "簡單來說，這個網站是透過 Hugo 產生的，是個純靜態網站（沒有後端資料庫），Hugo 產生出來的網站可以直接上傳到 GitHub Pages、Netlify 或是 CDN 上，撰寫文章透過 Markdown 語法，方便做文章控管。"
 ---
 
-簡單來說，這個網站是透過 Hugo 產生的，是個純靜態網站（沒有後端資料庫），Hugo 產生出來的網站可以直接上傳到 GitHub Pages、Netlify 或是 CDN 上，撰寫文章透過 Markdown 語法，方便做文章控管。
+簡單來說，這個網站是透過 [Hugo](https://gohugo.io/) 產生的，是個純靜態網站（沒有後端資料庫），Hugo 產生出來的網站可以直接上傳到 GitHub Pages、Netlify 或是 CDN 上，撰寫文章透過 Markdown 語法，方便做文章控管。
+
+Hugo 本身是透過 Golang 撰寫而成，另一個功能類似的專案 [Hexo](https://hexo.io/zh-tw/index.html) 則是使用 Node.js 撰寫。
 
 # 安裝 Hugo
 
