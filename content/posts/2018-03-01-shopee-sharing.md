@@ -2,7 +2,7 @@
 title: "蝦皮購物新加坡研發團隊技術分享會"
 date: 2018-03-01T19:51:51+08:00
 thumbnail: "images/2018-03-01.jpg"
-tags: ["sharing"]
+tags: ["sharing", "E-Commerce"]
 description: "透過技術分享的方式順便來台灣找工程師去新加坡工作，個人是覺得這樣還算不錯，整體而言第一場技術 Lead 的分享還算不錯，雖然每個領域都只是點到為止，沒有一一深入探討，但也趁機會檢視一下平常營運系統會遇到的問題。"
 ---
 
@@ -97,3 +97,10 @@ Speaker：雷磊 Lei Lei，蝦皮新加坡總部技術負責人
 * 公司會幫忙處理 Working Visa
 * 薪水超過 6000 新幣（約 132,000 新台幣），可申請依親簽證，家人就可以直接在當地工作
 * 工作六個月後申請長期居留，可買房子，買房可能比台灣便宜
+
+<hr>
+
+同場加映：
+
+* [蝦皮燒錢 母公司虧損擴大](https://money.udn.com/money/story/5599/3005391)
+* [蝦皮今年GMV目標倍增上看2350億，台灣市場的交易量占比持續下滑](https://www.bnext.com.tw/article/48321/shopee-2018-gmv-guidance-8-billion-usd)
