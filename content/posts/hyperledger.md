@@ -41,12 +41,19 @@ Blockchain Technologies For Business
 
 1.1.0
 
+`$ curl -sSL https://goo.gl/6wtTN5 | bash -s 1.1.0`
+
 ```
 REPOSITORY                      TAG             IMAGE ID            CREATED             SIZE
-hyperledger/fabric-ca           x86_64-1.1.0    72617b4fa9b4        7 weeks ago         299MB
-hyperledger/fabric-orderer      x86_64-1.1.0    ce0c810df36a        7 weeks ago         180MB
-hyperledger/fabric-peer         x86_64-1.1.0    b023f9be0771        7 weeks ago         187MB
-hyperledger/fabric-ccenv        x86_64-1.1.0    c8b4909d8d46        7 weeks ago         1.39GB
+hyperledger/fabric-ca           x86_64-1.1.0    72617b4fa9b4        2 months ago        299MB
+hyperledger/fabric-tools        x86_64-1.1.0    b7bfddf508bc        2 months ago        1.46GB
+hyperledger/fabric-orderer      x86_64-1.1.0    ce0c810df36a        2 months ago        180MB
+hyperledger/fabric-peer         x86_64-1.1.0    b023f9be0771        2 months ago        187MB
+hyperledger/fabric-javaenv      x86_64-1.1.0    82098abb1a17        2 months ago        1.52GB
+hyperledger/fabric-ccenv        x86_64-1.1.0    c8b4909d8d46        2 months ago        1.39GB
+hyperledger/fabric-zookeeper    x86_64-0.4.6    92cbb952b6f8        3 months ago        1.39GB
+hyperledger/fabric-kafka        x86_64-0.4.6    554c591b86a8        3 months ago        1.4GB
+hyperledger/fabric-couchdb      x86_64-0.4.6    7e73c828fc5b        3 months ago        1.56GB
 ```
 
 1.0.0
@@ -63,6 +70,16 @@ hyperledger/fabric-javaenv      x86_64-1.0.0    8948126f0935        9 months ago
 hyperledger/fabric-ccenv        x86_64-1.0.0    7182c260a5ca        9 months ago        1.29GB
 hyperledger/fabric-ca           x86_64-1.0.0    a15c59ecda5b        9 months ago        238MB
 ```
+
+### Building Your First Network
+
+`cd fabric-samples/first-network`
+
+`./byfn.sh -m generate`
+
+`./byfn.sh -m up`
+
+`./byfn.sh -m down`
 
 ## [Hyperledger Composer](https://hyperledger.github.io/composer/latest/)
 
