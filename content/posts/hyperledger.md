@@ -1,9 +1,9 @@
 ---
-title: "Hyperledger"
+title: "Hyperledger 超級帳本"
 date: 2018-05-06T17:16:49+08:00
 draft: true
 thumbnail: ""
-tags: ["hyperledger"]
+tags: ["hyperledger", "blockchain"]
 description: ""
 ---
 
@@ -88,7 +88,7 @@ hyperledger/fabric-ca           x86_64-1.0.0    a15c59ecda5b        9 months ago
 
 ## Hyperledger Cello
 
-## News
+## Hyperledger News
 
 * [Hyperledger Fabric 1.0版推出，區塊鏈將進入黃金時代](http://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID=13580)
 * [第一個開發成熟的商用區塊鏈開源框架Hyperledger Fabric 1.0上線！](https://www.bnext.com.tw/article/45355/hyperledger-fabric-releases-version-1-0-of-open-source-distributed-ledger)
