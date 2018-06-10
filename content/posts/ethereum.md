@@ -28,6 +28,13 @@ description: ""
 * [DAO + ICO = DAICO](https://medium.com/quillhash/dao-ico-daico-d4be2a39093c) by Preetam Rao
 * [DAO + ICO = DAICO – a new way to raise funds](https://www.cointelligence.com/content/dao-ico-daico-a-new-way-to-raise-funds/)
 
+## White Paper
+
+* [HashNET: Beyond Blockchain Technology](https://tolar.io/wp-content/uploads/2018/04/HashNET_whitepaper_v03.pdf) - 2018-02
+* [Ubex: Artificial Intelligence in Advertising](https://icorating.com/upload/whitepaper/14TSNaz1FewCoSV4iYCzKAGpGZsX4XshZMI0Is9L.pdf)
+ * [Ubex Token Economics](https://www.ubex.com/wp/Ubex-Token-Economics.pdf)
+ * [https://icorating.com/ico/ubex-ubex/](https://icorating.com/ico/ubex-ubex/)
+
 ## Other
 
 * [從程序員角度解釋什麼是區塊鏈的智能合約](https://block.cc/news/5b04e756ce79d2cf9b5fd683)
