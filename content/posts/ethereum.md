@@ -27,6 +27,7 @@ description: ""
 * [Explanation of DAICOs](https://ethresear.ch/t/explanation-of-daicos/465)
 * [DAO + ICO = DAICO](https://medium.com/quillhash/dao-ico-daico-d4be2a39093c) by Preetam Rao
 * [DAO + ICO = DAICO – a new way to raise funds](https://www.cointelligence.com/content/dao-ico-daico-a-new-way-to-raise-funds/)
+* [【什麼是 DAICO ？】Vitalik Buterin 提出新的 ICO 概念，目前正在測試中](https://www.blocktempo.com/vitalik-new-idea-icos-tested/)
 
 ## White Paper
 
