@@ -95,3 +95,7 @@ hyperledger/fabric-ca           x86_64-1.0.0    a15c59ecda5b        9 months ago
 * [全球海運龍頭快桅宣布採用IBM區塊鏈技術，大幅減少繁瑣的人工作業](https://www.bnext.com.tw/article/43486/maersk-apply-blackchain-reducing-cost)
 * [IBM力挺，全球最大區塊鏈聯盟Hyperledger會員突破122名](https://www.bnext.com.tw/article/43517/blockchain-ibm-hyperledger)
 * [Hyperledger Fabric 架構已成熟，IBM 有信心：2017 是區塊鏈應用落實年](http://technews.tw/2017/03/12/ibm-says-blockchain-will-imply-extensively-in-2017/)
+
+## Blockchain as a Service
+
+* [點融區塊鏈雲服務平台 ](https://baas.dianrong.com)
