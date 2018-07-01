@@ -88,6 +88,12 @@ hyperledger/fabric-ca           x86_64-1.0.0    a15c59ecda5b        9 months ago
 
 ## Hyperledger Cello
 
+## Hyperledger Caliper
+
+A blockchain benchmark framework to measure performance of multiple blockchain solutions.
+
+[GitHub](https://github.com/hyperledger/caliper)
+
 ## Hyperledger News
 
 * [Hyperledger Fabric 1.0版推出，區塊鏈將進入黃金時代](http://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID=13580)
