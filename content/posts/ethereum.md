@@ -46,8 +46,10 @@ A standard interface for multiple item/token definitions in a single deployed co
 
 ## Some White Papers
 
-* [JOYSO
-* [HashNET: Beyond Blockchain Technology](https://tolar.io/wp-content/uploads/2018/04/HashNET_whitepaper_v03.pdf) - 2018-02
+* [JOYSO](https://joyso.io/whitepaper_zh-TW.pdf)
+* [Muzeum](https://medium.com/@muzeumproject/white-paper-2cee4b0f2205)
+* [CryptoDT - TWDT-ETH](https://www.cryptodt.io/pdf/TWDTProposalsV1.4.pdf)
+* [HashNET: Beyond Blockchain Technology](https://tolar.io/wp-content/uploads/2018/06/HashNET_whitepaper_v03.pdf) - 2018-02
 * [HashFuture](https://www.hashfuture.io/static/images/White_Paper.pdf)
 * [Ubex: Artificial Intelligence in Advertising](https://icorating.com/upload/whitepaper/14TSNaz1FewCoSV4iYCzKAGpGZsX4XshZMI0Is9L.pdf)
  * [Ubex Token Economics](https://www.ubex.com/wp/Ubex-Token-Economics.pdf)
