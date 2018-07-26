@@ -15,6 +15,8 @@ Blockchain Technologies For Business
 * [IBM技术专家：Hyperleger Fabric 架构与部署实例解析](https://mp.weixin.qq.com/s?__biz=MzU2ODQzNzAyNQ==&mid=2247483894&idx=1&sn=2b29bc68ed51de365775c9a27846a4b4)
 * [一文理解超級賬本Hyperledger Fabric的架構與坑](https://mp.weixin.qq.com/s?__biz=MzU2ODQzNzAyNQ==&mid=2247483932&idx=1&sn=8c1993bec84cb9c526da725bc6bccb39)
 
+## Consortium Blockchain
+
 ## Smart Contracts
 
 * [Hyperledger Architecture, Volume II, Smart Contracts](https://www.hyperledger.org/wp-content/uploads/2018/04/Hyperledger_Arch_WG_Paper_2_SmartContracts.pdf)
@@ -80,6 +82,11 @@ hyperledger/fabric-ca           x86_64-1.0.0    a15c59ecda5b        9 months ago
 `./byfn.sh -m up`
 
 `./byfn.sh -m down`
+
+### Deploy
+
+* [Deploy Hyperledger Fabric on Kubernetes Part 1](http://www.think-foundry.com/deploy-hyperledger-fabric-on-kubernetes-part-1/)
+* [Deploy Hyperledger Fabric on Kubernetes Part 2](http://www.think-foundry.com/deploy-hyperledger-fabric-on-kubernetes-part-2/)
 
 ## [Hyperledger Composer](https://hyperledger.github.io/composer/latest/)
 

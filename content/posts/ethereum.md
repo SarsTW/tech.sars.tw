@@ -13,6 +13,7 @@ description: ""
 
 * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
  * GitHub [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)
+* [RBAC-SC: Role-Based Access Control Using Smart Contract](https://ieeexplore.ieee.org/document/8307397/)
 
 ### [Solidity](https://solidity.readthedocs.io/en/latest/)
 
@@ -22,6 +23,13 @@ description: ""
  * [如何撰寫智能合約(Smart Contract)?(I)](https://blog.gasolin.idv.tw/2017/09/06/howto-write-a-smart-contract/)
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) a framework to build secure smart contracts on Ethereum
 
+#### Samples
+* [EtherTW/LogoVote2017](https://github.com/EtherTW/LogoVote2017)
+* [EtherTW/tickets](https://github.com/EtherTW/tickets) A Dapp for meetup tickets
+* Taiwan Digital Token (TWDT-ETH)
+ * [0x35A4e77aE040AFc9743157911d39D1451cF2F05d](https://etherscan.io/address/0x35a4e77ae040afc9743157911d39d1451cf2f05d)
+ * [0x381eC72ebf803cb517285990955b2453d0529c46](https://etherscan.io/address/0x381ec72ebf803cb517285990955b2453d0529c46)
+* [ICO-tutorial](https://github.com/bitfwdcommunity/ICO-tutorial/blob/master/ico-contract.sol)
 
 ### [Vyper](https://github.com/ethereum/vyper)
 
@@ -40,6 +48,8 @@ New experimental programming language
 
 ### [Istanbul Byzantine Fault Tolerance #650](https://github.com/ethereum/EIPs/issues/650)
 
+### [Non-fungible Token Standard #721](https://github.com/ethereum/eips/issues/721)
+
 ### [ERC: Crypto Item Standard #1155](https://github.com/ethereum/EIPs/issues/1155)
 
 A standard interface for multiple item/token definitions in a single deployed contract.
@@ -48,7 +58,7 @@ A standard interface for multiple item/token definitions in a single deployed co
 
 * [JOYSO](https://joyso.io/whitepaper_zh-TW.pdf)
 * [Muzeum](https://medium.com/@muzeumproject/white-paper-2cee4b0f2205)
-* [CryptoDT - TWDT-ETH](https://www.cryptodt.io/pdf/TWDTProposalsV1.4.pdf)
+* [CryptoDT - TWDT-ETH](https://www.cryptodt.io/pdf/TWDT_Proposals_V1.5.pdf)
 * [HashNET: Beyond Blockchain Technology](https://tolar.io/wp-content/uploads/2018/06/HashNET_whitepaper_v03.pdf) - 2018-02
 * [HashFuture](https://www.hashfuture.io/static/images/White_Paper.pdf)
 * [Ubex: Artificial Intelligence in Advertising](https://icorating.com/upload/whitepaper/14TSNaz1FewCoSV4iYCzKAGpGZsX4XshZMI0Is9L.pdf)
