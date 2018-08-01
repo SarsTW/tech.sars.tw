@@ -3,7 +3,7 @@ title: "Ethereum 以太坊區塊鏈"
 date: 2018-06-07T14:13:33+08:00
 draft: true
 thumbnail: ""
-tags: ["ethereum", "blockchain"]
+tags: ["ethereum", "solidity", "blockchain"]
 description: ""
 ---
 
@@ -19,8 +19,10 @@ description: ""
 
 * [Truffle](http://truffleframework.com) The most popular Ethereum development framework
  * [Truffle Boxes](https://truffleframework.com/boxes) example applications and project templates
- * [什麼是智能合約(Smart Contract)?](https://blog.gasolin.idv.tw/2017/09/02/what-is-smart-contract/)
- * [如何撰寫智能合約(Smart Contract)?(I)](https://blog.gasolin.idv.tw/2017/09/06/howto-write-a-smart-contract/)
+* [什麼是智能合約(Smart Contract)?](https://blog.gasolin.idv.tw/2017/09/02/what-is-smart-contract/)
+* [如何撰寫智能合約(Smart Contract)?(I)](https://blog.gasolin.idv.tw/2017/09/06/howto-write-a-smart-contract/)
+* [如何撰寫智能合約(Smart Contract)?(II)建立加密代幣](https://blog.gasolin.idv.tw/2017/09/11/howto-write-a-simple-token/)
+* [如何撰寫智能合約(Smart Contract)?(III)建立標準代幣](https://blog.gasolin.idv.tw/2017/09/16/howto-write-an-erc20-compatible-token/)
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) a framework to build secure smart contracts on Ethereum
 
 #### Samples
@@ -64,6 +66,8 @@ A standard interface for multiple item/token definitions in a single deployed co
 * [Ubex: Artificial Intelligence in Advertising](https://icorating.com/upload/whitepaper/14TSNaz1FewCoSV4iYCzKAGpGZsX4XshZMI0Is9L.pdf)
  * [Ubex Token Economics](https://www.ubex.com/wp/Ubex-Token-Economics.pdf)
  * [https://icorating.com/ico/ubex-ubex/](https://icorating.com/ico/ubex-ubex/)
+
+## [Decentralized Autonomous Organization](https://www.ethereum.org/dao) (DAO)
 
 ## Other
 
