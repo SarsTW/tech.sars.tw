@@ -116,6 +116,52 @@ Filesystem      Size  Used Avail Use% Mounted on
 
 * [Adding or Resizing Persistent Disks](https://cloud.google.com/compute/docs/disks/add-persistent-disk)
 
+## Appendix
+
+如果在 `growpart` 的時候出現下面的錯誤，其實設定已經完成，只是必須要重新開機才能生效，重新開機後就可以看到硬碟容量已經完成擴充。
+
+```
+attempt to resize /dev/sda failed. sfdisk output below:
+| sfdisk: Warning: no primary partition is marked bootable (active)
+| This does not matter for LILO, but the DOS MBR will not boot this disk.
+| 
+| Disk /dev/sda: 819200 cylinders, 4 heads, 32 sectors/track
+| Old situation:
+| Units: cylinders of 65536 bytes, blocks of 1024 bytes, counting from 0
+| 
+|    Device Boot Start     End   #cyls    #blocks   Id  System
+| /dev/sda1         32  327679  327648   20969472   83  Linux
+| /dev/sda2          0       -       0          0    0  Empty
+| /dev/sda3          0       -       0          0    0  Empty
+| /dev/sda4          0       -       0          0    0  Empty
+| New situation:
+| Units: sectors of 512 bytes, counting from 0
+| 
+|    Device Boot    Start       End   #sectors  Id  System
+| /dev/sda1          4096 104857599  104853504  83  Linux
+| /dev/sda2             0         -          0   0  Empty
+| /dev/sda3             0         -          0   0  Empty
+| /dev/sda4             0         -          0   0  Empty
+| Successfully wrote the new partition table
+| 
+| sfdisk: BLKRRPART: Device or resource busy
+| sfdisk: The command to re-read the partition table failed.
+| Run partprobe(8), kpartx(8) or reboot your system now,
+| before using mkfs
+| sfdisk: If you created or changed a DOS partition, /dev/foo7, say, then use dd(1)
+| to zero the first 512 bytes:  dd if=/dev/zero of=/dev/foo7 bs=512 count=1
+| (See fdisk(8).)
+| Re-reading the partition table ...
+FAILED: failed to resize
+***** WARNING: Resize failed, attempting to revert ******
+Re-reading the partition table ...
+sfdisk: BLKRRPART: Device or resource busy
+sfdisk: The command to re-read the partition table failed.
+Run partprobe(8), kpartx(8) or reboot your system now,
+before using mkfs
+***** Appears to have gone OK ****
+```
+
 <hr>
 
 Cover photo credit: https://unsplash.com/photos/wloRJGS6Y34
