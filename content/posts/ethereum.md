@@ -48,6 +48,8 @@ New experimental programming language
 * [ERC20 Token使用手冊](https://medium.com/taipei-ethereum-meetup/3d7871c58bea)
 * [Ethereum ERC20 Token Standard 以太坊代幣標準介紹](https://medium.com/hackoin-taiwan/b7bc58171021)
 
+### [ERC223 token standard](https://github.com/ethereum/EIPs/issues/223)
+
 ### [Istanbul Byzantine Fault Tolerance #650](https://github.com/ethereum/EIPs/issues/650)
 
 ### [Non-fungible Token Standard #721](https://github.com/ethereum/eips/issues/721)

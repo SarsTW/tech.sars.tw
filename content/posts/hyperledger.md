@@ -85,6 +85,7 @@ hyperledger/fabric-ca           x86_64-1.0.0    a15c59ecda5b        9 months ago
 
 ### Deploy
 
+* GitHub - [blockchain-network-on-kubernetes](https://github.com/IBM/blockchain-network-on-kubernetes)
 * [Deploy Hyperledger Fabric on Kubernetes Part 1](http://www.think-foundry.com/deploy-hyperledger-fabric-on-kubernetes-part-1/)
 * [Deploy Hyperledger Fabric on Kubernetes Part 2](http://www.think-foundry.com/deploy-hyperledger-fabric-on-kubernetes-part-2/)
 

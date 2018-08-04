@@ -115,6 +115,7 @@ Filesystem      Size  Used Avail Use% Mounted on
 ## Reference
 
 * [Adding or Resizing Persistent Disks](https://cloud.google.com/compute/docs/disks/add-persistent-disk)
+* [Extending a Linux File System after Resizing the Volume](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html)
 
 ## Appendix
 
