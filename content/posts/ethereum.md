@@ -25,6 +25,31 @@ description: ""
 * [如何撰寫智能合約(Smart Contract)?(III)建立標準代幣](https://blog.gasolin.idv.tw/2017/09/16/howto-write-an-erc20-compatible-token/)
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) a framework to build secure smart contracts on Ethereum
 
+##### 亂數
+
+由於區塊高度、timestamp 等不算是真正隨機亂數，可以加上 sender address 並 hash 過來增加亂度
+
+##### Struct
+
+```
+struct Kitty {
+    uint256 genes;
+    uint64 birthTime;
+    uint16 generation;
+}
+```
+
+##### Modifier
+
+```
+modifier onlyOwner {
+    require (msg.sender == owner);
+    _;
+}
+```
+* [Solidity Modifier Tutorial - Control Functions with Modifiers](https://coursetro.com/posts/code/101/Solidity-Modifier-Tutorial---Control-Functions-with-Modifiers)
+
+
 #### Samples
 * [EtherTW/LogoVote2017](https://github.com/EtherTW/LogoVote2017)
 * [EtherTW/tickets](https://github.com/EtherTW/tickets) A Dapp for meetup tickets
@@ -32,6 +57,7 @@ description: ""
  * [0x35A4e77aE040AFc9743157911d39D1451cF2F05d](https://etherscan.io/address/0x35a4e77ae040afc9743157911d39d1451cf2f05d)
  * [0x381eC72ebf803cb517285990955b2453d0529c46](https://etherscan.io/address/0x381ec72ebf803cb517285990955b2453d0529c46)
 * [ICO-tutorial](https://github.com/bitfwdcommunity/ICO-tutorial/blob/master/ico-contract.sol)
+* [GolemToken Contract](https://etherscan.io/address/0xa74476443119A942dE498590Fe1f2454d7D4aC0d)
 
 ### [Vyper](https://github.com/ethereum/vyper)
 
@@ -48,7 +74,14 @@ New experimental programming language
 * [ERC20 Token使用手冊](https://medium.com/taipei-ethereum-meetup/3d7871c58bea)
 * [Ethereum ERC20 Token Standard 以太坊代幣標準介紹](https://medium.com/hackoin-taiwan/b7bc58171021)
 
+### ERC165
+
 ### [ERC223 token standard](https://github.com/ethereum/EIPs/issues/223)
+
+If the receiver is a contract, ERC223 token contract will try to call tokenFallback function on receiver contract. If there is no tokenFallback function on receiver contract transaction will fail.
+
+* [Recommended implementation](https://github.com/Dexaran/ERC223-token-standard/tree/Recommended)
+* [ERC20 vs ERC223. List of differences](https://ethereum.stackexchange.com/questions/17054/erc20-vs-erc223-list-of-differences)
 
 ### [Istanbul Byzantine Fault Tolerance #650](https://github.com/ethereum/EIPs/issues/650)
 
@@ -70,6 +103,8 @@ A standard interface for multiple item/token definitions in a single deployed co
  * [https://icorating.com/ico/ubex-ubex/](https://icorating.com/ico/ubex-ubex/)
 
 ## [Decentralized Autonomous Organization](https://www.ethereum.org/dao) (DAO)
+
+* [Testing for Reentrancy attacks in remix](https://ethereum.stackexchange.com/questions/28945/testing-for-reentrancy-attacks-in-remix)
 
 ## Other
 
