@@ -38,4 +38,5 @@ description: ""
 * [創業啟示錄：共享經濟的夢想與現實](http://www.cheers.com.tw/article/article.action?id=5078297&eturec=1&page=1)
 * [推動「共享車位」 4大困境待解套](https://udn.com/news/story/7241/3037157)
 * [the people who share](http://thepeoplewhoshare.com/sharing-economy-guide/)
-
+* [Airbnb 房東經驗](https://medium.com/@irvinfly/airbnb-host-experience-995226d76874)
+ * ***在台灣現行民宿法規框架之下，「共享自家空房間」就是違法***

@@ -60,6 +60,12 @@ modifier onlyOwner {
 * [Binance BNB contract](https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code)
 * [GolemToken Contract](https://etherscan.io/address/0xa74476443119A942dE498590Fe1f2454d7D4aC0d)
 
+### Multi-Signature Wallet
+
+* [Ethereum Multi-Signature Wallets](https://medium.com/hellogold/ethereum-multi-signature-wallets-77ab926ab63b)
+* [Ethereum multi-sig wallets Part II](https://medium.com/hellogold/ethereum-multi-sig-wallets-part-ii-19077f6280a)
+* [GitHub - gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet)
+
 ### [Vyper](https://github.com/ethereum/vyper)
 
 New experimental programming language
@@ -83,6 +89,8 @@ If the receiver is a contract, ERC223 token contract will try to call tokenFallb
 
 * [Recommended implementation](https://github.com/Dexaran/ERC223-token-standard/tree/Recommended)
 * [ERC20 vs ERC223. List of differences](https://ethereum.stackexchange.com/questions/17054/erc20-vs-erc223-list-of-differences)
+
+會造成 false positive 的結果而未被採用。
 
 ### [Istanbul Byzantine Fault Tolerance #650](https://github.com/ethereum/EIPs/issues/650)
 
