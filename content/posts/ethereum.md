@@ -96,6 +96,10 @@ If the receiver is a contract, ERC223 token contract will try to call tokenFallb
 
 ### [Non-fungible Token Standard #721](https://github.com/ethereum/eips/issues/721)
 
+### [ERC865: Pay transfers in tokens instead of gas, in one transaction](https://github.com/ethereum/EIPs/issues/865)
+
+Ability for token holders to pay transfer transactions in tokens instead of gas, in one transaction.
+
 ### [ERC875 for non fungible tokens and simple atomic swaps](https://github.com/ethereum/EIPs/issues/875) 
 
 * [ERCTokenImplementation](https://github.com/alpha-wallet/ERC875-Example)

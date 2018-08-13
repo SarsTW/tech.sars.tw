@@ -74,3 +74,6 @@ description: "COSCUP 2018"
 * Information -> Blockchain Token
  * Valuable + Verfied + Ownership
 
+### Slide
+
+* [區塊鏈上的二手票劵售票系統](https://docs.google.com/presentation/d/1j0NM_ZDc-7_ImVro3eauKThlj2CjhUqB2QKPrpBuGiM/edit?usp=sharing)
