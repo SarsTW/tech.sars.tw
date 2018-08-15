@@ -24,6 +24,7 @@ Blockchain Technologies For Business
 ## Hyperledger Fabric
 
 * [Hyperledger Fabric GitHub](https://github.com/hyperledger/fabric)
+* [Hyperledger Fabric Docs](http://hyperledger-fabric.readthedocs.io/en/release-1.2/)
 
 ### Components
 

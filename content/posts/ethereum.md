@@ -24,6 +24,7 @@ description: ""
 * [如何撰寫智能合約(Smart Contract)?(II)建立加密代幣](https://blog.gasolin.idv.tw/2017/09/11/howto-write-a-simple-token/)
 * [如何撰寫智能合約(Smart Contract)?(III)建立標準代幣](https://blog.gasolin.idv.tw/2017/09/16/howto-write-an-erc20-compatible-token/)
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) a framework to build secure smart contracts on Ethereum
+* [Ethereum 智能合約開發筆記：編譯和部署合約的第一種姿勢 - 使用 Remix](https://gist.github.com/Ankarrr/561fb3e49bd22847780fb93f0e382f59)
 
 ##### 亂數
 
@@ -104,6 +105,8 @@ Ability for token holders to pay transfer transactions in tokens instead of gas,
 
 * [ERCTokenImplementation](https://github.com/alpha-wallet/ERC875-Example)
 * [ERC875, a new standard for non fungible tokens and cheap atomic swaps](https://medium.com/alphawallet/erc875-a-new-standard-for-non-fungible-tokens-and-cheap-atomic-swaps-93ab85b9e7f9)
+* [ERC875 Token Factory
+](https://alpha-wallet.github.io/ERC875-token-factory/index.html)
 
 ### [ERC: Crypto Item Standard #1155](https://github.com/ethereum/EIPs/issues/1155)
 
@@ -114,6 +117,7 @@ A standard interface for multiple item/token definitions in a single deployed co
 * [JOYSO](https://joyso.io/whitepaper_zh-TW.pdf)
 * [Muzeum](https://medium.com/@muzeumproject/white-paper-2cee4b0f2205)
 * [CryptoDT - TWDT-ETH](https://www.cryptodt.io/pdf/TWDT_Proposals_V1.5.pdf)
+* [CyberMiles: A Next Generation Blockchain Protocol for Business Transactions](https://www.cybermiles.io/wp-content/uploads/2018/03/Technical-Whitepaper_en-US.pdf)
 * [HashNET: Beyond Blockchain Technology](https://tolar.io/wp-content/uploads/2018/06/HashNET_whitepaper_v03.pdf) - 2018-02
 * [HashFuture](https://www.hashfuture.io/static/images/White_Paper.pdf)
 * [Ubex: Artificial Intelligence in Advertising](https://icorating.com/upload/whitepaper/14TSNaz1FewCoSV4iYCzKAGpGZsX4XshZMI0Is9L.pdf)
@@ -148,8 +152,9 @@ A standard interface for multiple item/token definitions in a single deployed co
 
 ## Other
 
+* [Infura](https://infura.io/) - Your Access to the Ethereum Network
+ * 除了自己用 geth 架一個以太坊節點，也可以用其他人的節點來測試或遞送交易
 * [從程序員角度解釋什麼是區塊鏈的智能合約](https://block.cc/news/5b04e756ce79d2cf9b5fd683)
-
 
 ### DAICO: DAO + ICO
 
