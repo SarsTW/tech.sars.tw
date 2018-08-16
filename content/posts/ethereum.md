@@ -25,6 +25,7 @@ description: ""
 * [如何撰寫智能合約(Smart Contract)?(III)建立標準代幣](https://blog.gasolin.idv.tw/2017/09/16/howto-write-an-erc20-compatible-token/)
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) a framework to build secure smart contracts on Ethereum
 * [Ethereum 智能合約開發筆記：編譯和部署合約的第一種姿勢 - 使用 Remix](https://gist.github.com/Ankarrr/561fb3e49bd22847780fb93f0e382f59)
+* [Ethereum區塊鏈！智能合約(Smart Contract)與分散式網頁應用(dApp)入門](https://legacy.gitbook.com/book/gasolin/learn-ethereum-dapp/details)
 
 ##### 亂數
 
