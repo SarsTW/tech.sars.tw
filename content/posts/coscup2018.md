@@ -1,7 +1,7 @@
 ---
 title: "COSCUP 2018"
 date: 2018-08-12T23:15:27+08:00
-thumbnail: "images/COSCUP2018.jpg"
+thumbnail: "images/coscup2018.jpg"
 tags: ["coscup", "blockchain"]
 description: "COSCUP 2018"
 ---

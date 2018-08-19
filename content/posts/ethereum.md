@@ -1,10 +1,9 @@
 ---
 title: "Ethereum 以太坊區塊鏈"
-date: 2018-06-07T14:13:33+08:00
-draft: true
-thumbnail: ""
+date: 2018-08-17T14:13:33+08:00
+thumbnail: "images/ethereum.jpg"
 tags: ["ethereum", "solidity", "blockchain"]
-description: ""
+description: "Smart Contract. Dapp."
 ---
 
 * [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) ([中文翻譯](https://mp.weixin.qq.com/s?__biz=MzU2ODQzNzAyNQ==&mid=2247484235&idx=1&sn=f575a7701df76c8a7d7a4d70796373db))
