@@ -95,7 +95,13 @@ If the receiver is a contract, ERC223 token contract will try to call tokenFallb
 
 ### [Istanbul Byzantine Fault Tolerance #650](https://github.com/ethereum/EIPs/issues/650)
 
+### ERC677
+
+
+
 ### [Non-fungible Token Standard #721](https://github.com/ethereum/eips/issues/721)
+
+### ERC777
 
 ### [ERC865: Pay transfers in tokens instead of gas, in one transaction](https://github.com/ethereum/EIPs/issues/865)
 
