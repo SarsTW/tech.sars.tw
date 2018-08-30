@@ -111,8 +111,7 @@ Ability for token holders to pay transfer transactions in tokens instead of gas,
 
 * [ERCTokenImplementation](https://github.com/alpha-wallet/ERC875-Example)
 * [ERC875, a new standard for non fungible tokens and cheap atomic swaps](https://medium.com/alphawallet/erc875-a-new-standard-for-non-fungible-tokens-and-cheap-atomic-swaps-93ab85b9e7f9)
-* [ERC875 Token Factory
-](https://alpha-wallet.github.io/ERC875-token-factory/index.html)
+* [ERC875 Token Factory](https://alpha-wallet.github.io/ERC875-token-factory/index.html)
 
 ### [ERC: Crypto Item Standard #1155](https://github.com/ethereum/EIPs/issues/1155)
 
