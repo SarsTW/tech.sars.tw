@@ -123,6 +123,7 @@ A standard interface for multiple item/token definitions in a single deployed co
 * [Muzeum](https://medium.com/@muzeumproject/white-paper-2cee4b0f2205)
 * [CryptoDT - TWDT-ETH](https://www.cryptodt.io/pdf/TWDT_Proposals_V1.5.pdf)
 * [CyberMiles: A Next Generation Blockchain Protocol for Business Transactions](https://www.cybermiles.io/wp-content/uploads/2018/03/Technical-Whitepaper_en-US.pdf)
+* [Like Coin](https://like.co/in/likecoin-whitepaper-zh.pdf)
 * [HashNET: Beyond Blockchain Technology](https://tolar.io/wp-content/uploads/2018/06/HashNET_whitepaper_v03.pdf) - 2018-02
 * [HashFuture](https://www.hashfuture.io/static/images/White_Paper.pdf)
 * [Ubex: Artificial Intelligence in Advertising](https://icorating.com/upload/whitepaper/14TSNaz1FewCoSV4iYCzKAGpGZsX4XshZMI0Is9L.pdf)
