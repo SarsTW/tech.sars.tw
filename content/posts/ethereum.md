@@ -7,6 +7,7 @@ description: "Smart Contract. Dapp."
 ---
 
 * [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) ([中文翻譯](https://mp.weixin.qq.com/s?__biz=MzU2ODQzNzAyNQ==&mid=2247484235&idx=1&sn=f575a7701df76c8a7d7a4d70796373db))
+* [Ethereum block architecture](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) (Source file: [BlockchainIllustrations](https://github.com/4c656554/BlockchainIllustrations))
 
 ## Smart Contract
 
