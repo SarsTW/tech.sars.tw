@@ -2,8 +2,12 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-thumbnail: "images/2018--.jpg"
+thumbnail: "images/{{ .TranslationBaseName }}.jpg"
 tags: ["weekly"]
 description: ""
 ---
+
+## Technology
+
+## Other
 
