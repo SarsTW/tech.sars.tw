@@ -6,6 +6,8 @@ tags: ["ethereum", "solidity", "blockchain"]
 description: "Smart Contract. Dapp."
 ---
 
+## Ethereum Blockchain
+
 * [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) ([中文翻譯](https://mp.weixin.qq.com/s?__biz=MzU2ODQzNzAyNQ==&mid=2247484235&idx=1&sn=f575a7701df76c8a7d7a4d70796373db))
 * [Ethereum block architecture](https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture) (Source file: [BlockchainIllustrations](https://github.com/4c656554/BlockchainIllustrations))
 
@@ -14,9 +16,21 @@ description: "Smart Contract. Dapp."
 * [Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
  * GitHub [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [RBAC-SC: Role-Based Access Control Using Smart Contract](https://ieeexplore.ieee.org/document/8307397/)
+* [Decentralized Application Security Project](http://www.dasp.co/)
+	1. Reentrancy
+	2. Access Control
+	3. Arithmetic
+	4. Unchecked Low Level Calls
+	5. Denial of Services
+	6. Bad Randomness
+	7. Front Running
+	8. Time Manipulation
+	9. Short Addresses
+	10. Unknown Unknowns
 
 ### [Solidity](https://solidity.readthedocs.io/en/latest/)
 
+* [Learn X in Y minutes, where X=Solidity](https://learnxinyminutes.com/docs/solidity/)
 * [Truffle](http://truffleframework.com) The most popular Ethereum development framework
  * [Truffle Boxes](https://truffleframework.com/boxes) example applications and project templates
 * [什麼是智能合約(Smart Contract)?](https://blog.gasolin.idv.tw/2017/09/02/what-is-smart-contract/)
@@ -82,6 +96,8 @@ New experimental programming language
 * [GitHub Issue - ERC20 Token Standard #610](https://github.com/ethereum/EIPs/pull/610)
 * [ERC20 Token使用手冊](https://medium.com/taipei-ethereum-meetup/3d7871c58bea)
 * [Ethereum ERC20 Token Standard 以太坊代幣標準介紹](https://medium.com/hackoin-taiwan/b7bc58171021)
+* [Understanding ERC-20 token contracts](https://medium.com/@jgm.orinoco/understanding-erc-20-token-contracts-a809a7310aa5)
+* [LikeCoin 代幣付款委託](https://medium.com/likecoin/77f42cae03dc)
 
 ### ERC165
 
@@ -157,10 +173,15 @@ A standard interface for multiple item/token definitions in a single deployed co
 * [BIP39 Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
 * [Mnemonic Code Converter](https://iancoleman.io/bip39/)
 
-## Other
+## Geth
 
+* [Geth 基礎用法及架設 Muti-Nodes 私有鏈](https://medium.com/fukuball-murmur/b6c853258e4f)
+* 操作 macOS 的 Mist App 內的 Geth `~/Library/Application\ Support/Mist/binaries/Geth/unpacked/geth attach ~/Library/Ethereum/geth.ipc` -> `net.peerCount` 可以顯示目前連接的 peer 數量
 * [Infura](https://infura.io/) - Your Access to the Ethereum Network
  * 除了自己用 geth 架一個以太坊節點，也可以用其他人的節點來測試或遞送交易
+
+## Other
+
 * [從程序員角度解釋什麼是區塊鏈的智能合約](https://block.cc/news/5b04e756ce79d2cf9b5fd683)
 
 ### DAICO: DAO + ICO
