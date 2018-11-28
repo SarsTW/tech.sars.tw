@@ -40,3 +40,6 @@ description: ""
 * [the people who share](http://thepeoplewhoshare.com/sharing-economy-guide/)
 * [Airbnb 房東經驗](https://medium.com/@irvinfly/airbnb-host-experience-995226d76874)
  * ***在台灣現行民宿法規框架之下，「共享自家空房間」就是違法***
+* [同是共享車！為何oBike惹民怨，WeMo受支持、衝出百萬騎乘次數？](https://www.managertoday.com.tw/articles/view/56836)
+* [中國共享單車ofo傳破產，電動滑板車會是另一個泡沫嗎？](https://www.bnext.com.tw/article/51257/will-e-scooter-be-the-next-bubble)
+* [中國的共享單車潮](https://foolishbits.com/e8b11eed0b29)
