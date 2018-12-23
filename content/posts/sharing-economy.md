@@ -22,13 +22,13 @@ description: ""
 
 共享經濟目前面臨最大的問題大多是安全問題，Airbnb 共享房間之所以能成功，主要也是房間通常是獨立套房或可上鎖的空間，偷竊與其他各種安全問題相對小。共享廚房概念就比較難實現，因為一般大眾的家中，廚房不會有獨立的出入口及門鎖。
 
-在台灣，共享停車位的問題，主要遇到的問題則是法規與稅務方面，為的是避免停車場業者濫用共享經濟，如今法規也明定一個車位一個月最多只能出租 240 小時，算是訂出了明確的規範。而真正的共享汽車、機車、單車等等，則是因為技術上還無法有效的上鎖，以及損壞認定賠償問題較難釐清，目前只能停留在公司統一套用鎖車方式的租賃業，所以大眾目前也還沒辦法真正把自家的汽車車、單車放上共享平台分享給不特定的大眾借用。
+在台灣，共享停車位的問題，主要遇到的問題則是法規與稅務方面，為的是避免停車場業者濫用共享經濟，如今法規也明定一個車位一個月最多只能出租 240 小時，算是訂出了明確的規範。而真正的共享汽車、機車、單車等等，則是因為技術上還無法有效的上鎖，以及損壞認定賠償問題較難釐清，目前只能停留在公司統一套用鎖車方式的租賃業，所以大眾目前也還沒辦法真正把自家的汽車、單車放上共享平台分享給不特定的大眾借用。
 
 
 最後整理一下目前台灣比較知名的各類型案例如下：
 
-* 共享：Airbnb (租屋)、USPACE (租車位)、UPARK (租車位)
-* 租賃：YouBike (單車)、Obike (單車)、Uber (計程車)、Zipcar (租車)、WeMo Scooter (租車)、小樹屋Treerful (租屋)
+* 共享：個人Airbnb (空房間)、USPACE (車位)、UPARK (車位)
+* 租賃：YouBike (單車)、Obike (單車)、Bird（電動滑板車）、Uber (計程車)、Zipcar (租車)、WeMo Scooter (租車)、小樹屋Treerful (租屋)
 * 接案：Uber (私家車但違法)、GoGoVan、Lalamove、Foodpanda、HonestBee、愛月嫂
 
 ## References
@@ -43,3 +43,10 @@ description: ""
 * [同是共享車！為何oBike惹民怨，WeMo受支持、衝出百萬騎乘次數？](https://www.managertoday.com.tw/articles/view/56836)
 * [中國共享單車ofo傳破產，電動滑板車會是另一個泡沫嗎？](https://www.bnext.com.tw/article/51257/will-e-scooter-be-the-next-bubble)
 * [中國的共享單車潮](https://foolishbits.com/e8b11eed0b29)
+* [兩年營運規模擴增10倍！WeMo共享電動機車目標年底衝3千台](https://meet.bnext.com.tw/articles/view/43940)
+ * *若按照WeMo前進海外的計畫，三年內將前往歐州和東南亞市場，或許在不久將來後，就有機會看到台灣團隊互打的精彩局面。*
+ * Sars: 出國也要互毆給別人看笑話是嗎...
+* [一句「活該」道不盡ofo敗局，中國街上車影連墳場都消失](https://meet.bnext.com.tw/articles/view/44183)
+* [電動滑板車Bird、Lime熱潮退燒中，投資人紛紛急踩煞車](https://www.bnext.com.tw/article/51608/scooter-startups-cool-fundraising-wheels)
+* [共享經濟真的涼了？](https://meet.bnext.com.tw/articles/view/44194)
+* [舊金山滑板車之亂 : 是乘車共享2.0，還是另一場浩劫?](https://vocus.cc/bass/5c16a9a4fd897800013f7854)
