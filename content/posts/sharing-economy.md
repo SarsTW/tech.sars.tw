@@ -50,3 +50,4 @@ description: ""
 * [電動滑板車Bird、Lime熱潮退燒中，投資人紛紛急踩煞車](https://www.bnext.com.tw/article/51608/scooter-startups-cool-fundraising-wheels)
 * [共享經濟真的涼了？](https://meet.bnext.com.tw/articles/view/44194)
 * [舊金山滑板車之亂 : 是乘車共享2.0，還是另一場浩劫?](https://vocus.cc/bass/5c16a9a4fd897800013f7854)
+* [觸目驚心的共享單車墳場，中國創業史上最慘烈的大屠殺](https://fortuneinsight.com/web/posts/68885)
