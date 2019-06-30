@@ -40,6 +40,7 @@ description: "Smart Contract. Dapp."
 * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) a framework to build secure smart contracts on Ethereum
 * [Ethereum 智能合約開發筆記：編譯和部署合約的第一種姿勢 - 使用 Remix](https://gist.github.com/Ankarrr/561fb3e49bd22847780fb93f0e382f59)
 * [Ethereum區塊鏈！智能合約(Smart Contract)與分散式網頁應用(dApp)入門](https://legacy.gitbook.com/book/gasolin/learn-ethereum-dapp/details)
+* [區塊鏈技術-智能合約Solidity編程語言](http://www.tryblockchain.org)
 
 ##### 亂數
 
@@ -118,6 +119,10 @@ If the receiver is a contract, ERC223 token contract will try to call tokenFallb
 
 ### [Non-fungible Token Standard #721](https://github.com/ethereum/eips/issues/721)
 
+* [ERC721x](https://erc721x.org)
+ * [ERC721x — A Smarter Token for the Future of Crypto Collectibles](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1)
+ * [GitHub](https://github.com/loomnetwork/erc721x)
+
 ### ERC777
 
 ### [ERC865: Pay transfers in tokens instead of gas, in one transaction](https://github.com/ethereum/EIPs/issues/865)
@@ -140,7 +145,9 @@ A standard interface for multiple item/token definitions in a single deployed co
 * [Muzeum](https://medium.com/@muzeumproject/white-paper-2cee4b0f2205)
 * [CryptoDT - TWDT-ETH](https://www.cryptodt.io/pdf/TWDT_Proposals_V1.5.pdf)
 * [CyberMiles: A Next Generation Blockchain Protocol for Business Transactions](https://www.cybermiles.io/wp-content/uploads/2018/03/Technical-Whitepaper_en-US.pdf)
+* [DEXON - zh-TW](https://storage.googleapis.com/dexon-website/DEXON%20White%20Paper%20zh-TW%20v0.2.3.pdf)
 * [Like Coin](https://like.co/in/likecoin-whitepaper-zh.pdf)
+* [Event Token](http://www.eventtoken.io/EvenToken_white%20paper_zh.pdf)
 * [HashNET: Beyond Blockchain Technology](https://tolar.io/wp-content/uploads/2018/06/HashNET_whitepaper_v03.pdf) - 2018-02
 * [HashFuture](https://www.hashfuture.io/static/images/White_Paper.pdf)
 * [Ubex: Artificial Intelligence in Advertising](https://icorating.com/upload/whitepaper/14TSNaz1FewCoSV4iYCzKAGpGZsX4XshZMI0Is9L.pdf)
@@ -183,6 +190,14 @@ A standard interface for multiple item/token definitions in a single deployed co
 ## Other
 
 * [從程序員角度解釋什麼是區塊鏈的智能合約](https://block.cc/news/5b04e756ce79d2cf9b5fd683)
+* [Samson's Blog - 區塊鏈](https://www.samsonhoi.com/category/technology/區塊鏈)
+* [Fukuball Murmur - Ethereum](https://medium.com/fukuball-murmur/tagged/ethereum)
+* [EVM架構簡析和源碼分析](https://mp.weixin.qq.com/s/jPzANaAB68nQumMRTbl-NQ)
+* [給工程師的 ETH 2.0 指南](https://forum.cypherpunks.tech/t/topic/235)
+
+### Wallet
+
+* Blockchain private key management library on iOS - [consenlabs/token-core-ios](https://github.com/consenlabs/token-core-ios)
 
 ### DAICO: DAO + ICO
 

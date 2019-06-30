@@ -1,7 +1,6 @@
 ---
 title: "Hyperledger 超級帳本"
 date: 2018-05-06T17:16:49+08:00
-draft: true
 thumbnail: ""
 tags: ["hyperledger", "blockchain"]
 description: ""
