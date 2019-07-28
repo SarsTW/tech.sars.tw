@@ -1,7 +1,6 @@
 ---
 title: "Clair"
 date: 2019-07-24T11:05:04+08:00
-draft: true
 thumbnail: "images/2019-07-24-clair.jpg"
 tags: ["devops", "clair", "docker"]
 description: ""
