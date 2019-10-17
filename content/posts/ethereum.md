@@ -161,6 +161,9 @@ A standard interface for multiple item/token definitions in a single deployed co
 
 ## Dapp
 
+* [ToDo List Ethereum Dapp](https://eattheblocks.com/category/series/todo-list-ethereum-dapp/)
+ * [ToDo List Ethereum Dapp Tutorial (Solidity/Javascript)](https://www.youtube.com/playlist?list=PLbbtODcOYIoGfbrnfxgwva0Fktju0L449)
+
 ### HD Wallet
 
 一組主私鑰建立許多子私鑰，透過一份seed產生多組子私鑰，轉移錢包時只需要主私鑰。
@@ -194,6 +197,7 @@ A standard interface for multiple item/token definitions in a single deployed co
 * [Fukuball Murmur - Ethereum](https://medium.com/fukuball-murmur/tagged/ethereum)
 * [EVM架構簡析和源碼分析](https://mp.weixin.qq.com/s/jPzANaAB68nQumMRTbl-NQ)
 * [給工程師的 ETH 2.0 指南](https://forum.cypherpunks.tech/t/topic/235)
+* [以太坊共筆](https://hackmd.io/@liangcc/rkvaDxL5Q/)
 
 ### Wallet
 
