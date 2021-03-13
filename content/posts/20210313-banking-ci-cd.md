@@ -22,9 +22,13 @@ description: ""
 
 [Shioaji](https://sinotrade.github.io) - the most pythonic API for trading the Taiwan and global financial market
 
-<iframe src="https://onedrive.live.com/embed?cid=A5F1134510BD0289&resid=A5F1134510BD0289%2133021&authkey=ANQV4N4MioZUqMg&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=A5F1134510BD0289&resid=A5F1134510BD0289%2133021&authkey=ANQV4N4MioZUqMg&em=2" width="600" height="450" frameborder="0" scrolling="no"></iframe>
 
 # GitOps 導入
+
+[GitLab Ops (醫療環境導入 GitOps)](https://slides.com/rockwyc992/gitlabops-20210313)
+
+<iframe src="https://slides.com/rockwyc992/gitlabops-20210313/embed?style=light&byline=hidden&share=hidden" width="600" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 - 吳易璋 seal.tw
 - GitLab is a DevOps platform，已經不是單純的 Source Code Management
