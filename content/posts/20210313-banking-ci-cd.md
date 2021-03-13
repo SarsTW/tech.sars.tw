@@ -1,7 +1,7 @@
 ---
 title: "20210313 GDG Taipei"
 date: 2021-03-13T15:09:31+08:00
-thumbnail: ""
+thumbnail: "/images/2021/2021-03-13.jpg"
 tags: ["ci/cd", "gitops", "devops", "gitlab"]
 description: ""
 ---
