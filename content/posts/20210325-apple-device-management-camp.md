@@ -13,7 +13,7 @@ description: ""
 - Shift-Option-Command-R - Start up macOS Recovery over the Internet (Shipped version)
 
 
-## Startup Security Utility
+## [Startup Security Utility](https://support.apple.com/en-us/HT208198)
 
 Apple T2 Security Chip
 
