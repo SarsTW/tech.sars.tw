@@ -1,10 +1,12 @@
 ---
 title: "Jamf 200 Certified Tech"
 date: 2021-07-12T02:05:37+08:00
-thumbnail: ""
+thumbnail: "images/2021/2021-07-12-Deploying_macOS_Upgrades_Method_Flowchart.jpg"
 tags: ["jamf"]
 description: ""
 ---
+
+Cover Photo: [Deploying macOS Upgrades and Updates with Jamf Pro](https://docs.jamf.com/technical-papers/jamf-pro/deploying-macos-upgrades/10.34.0/Overview.html)
 
 ## Jamf 簡介
 
