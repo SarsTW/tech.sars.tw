@@ -7,6 +7,7 @@ googleAnalytics = "UA-757654-3"
 disqusShortname = "tech-sars-tw"
 
 [params]
+  description = "口耳相傳 終究失傳"
   # Fonts settings.
   googlefonts = "//fonts.googleapis.com/earlyaccess/notosanstc.css"
   fontfamily = "'Noto Sans TC', sans-serif"
