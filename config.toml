@@ -1,7 +1,7 @@
 baseURL = "https://tech.sars.tw/"
 languageCode = "zh-tw"
 title = "Tech @ Sars.TW"
-theme = "robust"
+theme = "robust.git"
 
 googleAnalytics = "UA-757654-3"
 disqusShortname = "tech-sars-tw"
